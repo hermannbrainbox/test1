@@ -1,1 +1,1 @@
-# Test Repository
+echo "# Test Repository"
